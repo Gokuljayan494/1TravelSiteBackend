@@ -37,7 +37,7 @@
     "path": "^0.12.7",
     "sanitize": "^2.1.2",
     "sendgrid": "^5.2.3",
-    "sharp": "^0.31.3",
+    "sharp": "^0.33.5",
     "soft-delete-plugin-mongoose": "^1.0.15",
     "twilio": "^2.5.2",
     "uuid": "^9.0.0",
