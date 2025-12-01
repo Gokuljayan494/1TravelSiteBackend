@@ -41,6 +41,6 @@
     "soft-delete-plugin-mongoose": "^1.0.15",
     "twilio": "^2.5.2",
     "uuid": "^9.0.0",
-    "validator": "^13.7.0"
+    "validator": "^13.15.22"
   }
 }
